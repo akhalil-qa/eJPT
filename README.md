@@ -8,17 +8,16 @@
 <p dir="rtl" align="right">لا يوجد أي متطلبات مسبقة لهذه الشهادة، حيث وكما ذكرت أنها مخصصة لمن يريد البدء في مجال الأختراق الأخلاقي. ولكني أرى بأن من يريد الدخول في هذا المجال، فمن المفضل أن تكون له خلفية جيدة في مجال الشبكات على أقل تقدير (أوصي بمنهج Cisco CCNA R&amp;S لمن يريد تأسيس نفسه بشكل صحيح في مجال الشبكات).</p>
 <p dir="rtl" align="right">&nbsp;</p>
 <h2 dir="rtl" align="right">هل هناك كورس لهذه الشهادة؟</h2>
-<p dir="rtl" align="right">تقدم eLearn Security&nbsp;</p>
+<p dir="rtl" align="right">تقدم eLearn Security كورس PTS أو (Penetration Tester Student) والذي يؤهلك وبشكل كامل لإجتياز اختبار eJPT بنجاح. تعتبر كورسات eLearn Security من الكورسات الجميلة والتي تقوم بشرح المادة والمواضيع بأسلوب واضح وسهل ويساعد على التطبيق العملي بشكل كبير بعيدا عن التركيز على التعمق في الأمور النظرية فقط.</p>
+<p dir="rtl" align="right">&nbsp;</p>
+<p dir="rtl" align="right">يحتوي الكورس على 15 وحدة مقسمة على 3 أقسام رئيسية كالتالي:</p>
 <ol dir="rtl">
-<li>Security and Risk Management</li>
-<li>Asset Management</li>
-<li>Security Architecture and Engineering</li>
-<li>Communication and Network Security</li>
-<li>Identity and Access Management</li>
-<li>Security Assessment and Testing</li>
-<li>Security Operations</li>
-<li>Software Development Security</li>
+<li><strong>Preliminary Skills - Prerequisits:</strong> يحتوي هذا القسم على (4) وحدات تغطي جزيئة المقدمة، والشبكات، وتطبيقات الويب، ومبادئ اختبار الاختراق.</li>
+<li><strong>Preliminary Skills - Programming:</strong> يحتوي هذا القسم أيضا على (4) وحدات تغطي مواضيع البرمجة بلغات ++C و Python و Bash Scripting (هذه الوحدات لن تغطى في الاختبار، ولكنها تدرس ضمن الكورس للمعرفة).</li>
+<li><strong>Penetration Testing:</strong> يعتبر هذا القسم هو القسم الأهم في المنهج بشكل كامل حيث ينقسم إلى (7) وحدات رئيسية، وتعظي المواضيع التالية: Information Gathering و Footprinting and Scanning و Vulnerability Assessment و Web Attacks و System Attacks و Networks Attacks.</li>
 </ol>
+<p>&nbsp;</p>
+<p style="text-align: right;">كما أن كل من الوحدات المذكورة تحتوي على عروض تقديمية (سلايدات) تفصيلية للمادة، وفيديوهات تعليمية، بالإضافة إلى لابات عملية تساعدك على فهم المادة المشروحة بشكل عميق من خلال التطبيق العملي.</p>
 <h2 dir="rtl" align="right">تفاصيل الاختبار</h2>
 <p dir="rtl" align="right">هذه التفاصيل ستقوم بالإجابة على استفسارات العديد من المهتمين في تقديم الاختبار:</p>
 <ol dir="rtl">
