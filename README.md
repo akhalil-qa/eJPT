@@ -17,8 +17,8 @@
 <li><strong>Penetration Testing:</strong> يعتبر هذا القسم هو القسم الأهم في المنهج بشكل كامل حيث ينقسم إلى (7) وحدات رئيسية، وتعظي المواضيع التالية: Information Gathering و Footprinting and Scanning و Vulnerability Assessment و Web Attacks و System Attacks و Networks Attacks.</li>
 </ol>
 <p>&nbsp;</p>
-<p style="text-align: right;">كما أن كل من الوحدات المذكورة تحتوي على عروض تقديمية (سلايدات) تفصيلية للمادة، وفيديوهات تعليمية، بالإضافة إلى لابات عملية تساعدك على فهم المادة المشروحة بشكل عميق من خلال التطبيق العملي.</p>
-<h2 dir="rtl" align="right">تفاصيل الاختبار</h2>
+<p style="text-align: right; padding-left: 30px;">كما أن كل من الوحدات المذكورة تحتوي على عروض تقديمية (سلايدات) تفصيلية للمادة، وفيديوهات تعليمية، بالإضافة إلى لابات عملية تساعدك على فهم المادة المشروحة بشكل عميق من خلال التطبيق العملي.</p>
+<h2 dir="rtl" style="padding-right: 30px;" align="right">تفاصيل الاختبار</h2>
 <p dir="rtl" align="right">هذه التفاصيل ستقوم بالإجابة على استفسارات العديد من المهتمين في تقديم الاختبار:</p>
 <ol dir="rtl">
 <ol dir="rtl">
